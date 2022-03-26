@@ -3,7 +3,7 @@ import pandas as pd
 import datetime
 
 #Initialise variables
-key = "d8d5f785-9b19-4873-b1a0-22659560f7b9" 
+key = "**" 
 company_numbers_file = "C:\\Users\\sami-\\Desktop\\python_directory\\CHS\\DummyData.csv"
 company_output_file = "C:\\Users\\sami-\\zDesktop\\zpython_directory\\CHS\\CompanyDataOutput.csv"
 
